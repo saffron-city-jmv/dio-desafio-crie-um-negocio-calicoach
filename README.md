@@ -380,7 +380,8 @@ Permite:
 
 ## Landing Page
 
-> Inserir screenshot
+<img width="1905" height="910" alt="image" src="https://github.com/user-attachments/assets/82d20892-5b6d-4d3c-bc60-4adb2c1af03d" />
+
 
 ---
 
